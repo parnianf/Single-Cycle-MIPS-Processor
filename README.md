@@ -7,3 +7,5 @@ This is an implementation of a single-cycle processor that uses an architecture 
 * Control Flow Instructions: j, jal, jr, beq, bne
 
 Test Program: The "instructions.txt" file contains a set of assembly language instructions which calculates the sum of the elements of an array and stores the result at the 2000th index of memory.
+
+Contributor: [Paria Khoshtab](https://github.com/Theparia/)
